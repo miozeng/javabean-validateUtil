@@ -1,0 +1,2 @@
+
+java验证小工具，支持验证jave对象以及properties文件 通过对java添加注解，使用验证工具类VlidateUtil 验证对象，可以通过回调函数处理验证失败和成功的情况
